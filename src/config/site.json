@@ -1,0 +1,42 @@
+{
+  "title": "AI 工具导航",
+  "subtitle": "发现并体验最新最全的 AI 工具，提升效率，激发创意，开启智能办公新时代！",
+  "features": [
+    {
+      "title": "AI 绘画创作",
+      "description": "支持文生图、图生图、风格迁移等多种 AI 绘画功能。无论是设计师、创作者还是普通用户，都能轻松创作出精美的艺术作品。",
+      "imageUrl": "https://images.unsplash.com/photo-1501084817091-a4f3d1d19e07?auto=format&fit=crop&w=800&q=80",
+      "url": "https://midjourney.com"
+    },
+    {
+      "title": "AI 文本助手",
+      "description": "强大的 AI 语言模型，支持文章创作、代码编程、问答对话等多种场景。让写作更轻松，创作更高效。",
+      "imageUrl": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?auto=format&fit=crop&w=800&q=80",
+      "url": "https://chat.openai.com"
+    },
+    {
+      "title": "AI 语音工具",
+      "description": "提供语音识别、文字转语音、实时翻译等功能。支持多语言处理，让沟通无障碍，效率倍增。",
+      "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=800&q=80",
+      "url": "https://elevenlabs.io"
+    },
+    {
+      "title": "AI 视频制作",
+      "description": "一键生成专业视频内容，支持文本转视频、视频编辑、特效制作等。让视频创作变得简单快捷。",
+      "imageUrl": "https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?auto=format&fit=crop&w=800&q=80",
+      "url": "https://runwayml.com"
+    },
+    {
+      "title": "AI 数据分析",
+      "description": "智能数据处理和分析工具，支持数据可视化、趋势预测、报告生成等功能。让数据分析更简单直观。",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+      "url": "https://www.datarobot.com"
+    },
+    {
+      "title": "AI 办公助手",
+      "description": "智能办公套件，支持文档处理、表格分析、PPT 制作等功能。提升工作效率，让办公更智能。",
+      "imageUrl": "https://images.unsplash.com/photo-1497493292307-31c376b6e479?auto=format&fit=crop&w=800&q=80",
+      "url": "https://workspace.google.com/products/duet-ai/"
+    }
+  ]
+}
